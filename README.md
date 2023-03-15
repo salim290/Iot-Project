@@ -1,5 +1,5 @@
 That is just a simple website for the IoT project 
-Created by [Salim Alkhodor](https://Salim-a.de), [Bastien]() and [Linus]()
+Created by [Salim](https://Salim-a.de), [MisterB ]() and [Linus]()
 
 
 # Getting Started with Create React App
